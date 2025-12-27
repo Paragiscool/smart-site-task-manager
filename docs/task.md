@@ -1,0 +1,17 @@
+- [x] Create project directories (backend, frontend, database)
+- [x] Create Database Schema (SQL)
+    - [x] `database/schema.sql`
+- [x] Implement Backend (Node.js/Express)
+    - [x] `backend/package.json`
+    - [x] `backend/server.js` (API endpoints + Auto-Classification Logic)
+- [x] Implement Frontend (Flutter)
+    - [x] `frontend/lib/main.dart`
+    - [x] `frontend/lib/models/task_model.dart`
+    - [x] `frontend/lib/providers/task_provider.dart`
+    - [x] `frontend/lib/services/api_service.dart`
+    - [x] `frontend/lib/screens/dashboard_screen.dart`
+    - [x] `frontend/lib/screens/create_task_sheet.dart`
+    - [x] `frontend/pubspec.yaml`
+    - [x] `backend/.env`
+- [x] Create Documentation
+    - [x] `README.md`
